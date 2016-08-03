@@ -1,0 +1,7 @@
+body,div,p,h1,h2,h3,h4,h5,h6,img,ul,li,ol{margin: 0;padding: 0;}
+a{text-decoration: none;}
+li{list-style: none;}
+.left{float: left;}
+.right{float: right;}
+img{border: none;}
+body{width: 100%;height: 100%;font:12px/1.5 tahoma,arial,'Hiragino Sans GB','\5b8b\4f53',sans-serif}

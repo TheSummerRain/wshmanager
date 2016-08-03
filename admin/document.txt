@@ -1,0 +1,15 @@
+index.php里边装得是主页链接各个子页面
+
+ver.php版本信息
+
+dologin.php页面用来判断账号密码 跟验证码
+
+doadminaction。php页面用来注销管理员layout（）在admin.inc.php
+
+getverify。php封装的验证码
+
+login.php登录页面
+
+user_info.php用户基础信息
+
+editUserInfo。php用户基础信息的编辑
